@@ -1,6 +1,6 @@
 <h1>#LisOrganizer</h1>
 <hr>
--What is it for?
+-What is it for?<br>
   -> Organize lists in alphabetical or numerical order
 
 <hr>
